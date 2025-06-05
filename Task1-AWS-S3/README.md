@@ -6,8 +6,8 @@ Set up and configure cloud storage using **AWS S3**. Upload example files and ma
 ---
 
 ## 📦 Bucket Details
-- **Bucket Name:** vanshika-cloud-bucket (example)
-- **Region:** ap-south-1 (Mumbai)
+- **Bucket Name:** vanshika-cloud-bucket 
+- **Region:** Jaipur
 - **Versioning:** Disabled
 - **Public Access:** Enabled for individual files via bucket policy (see below)
 
