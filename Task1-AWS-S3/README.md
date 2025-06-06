@@ -6,8 +6,8 @@ Set up and configure cloud storage using **AWS S3**. Upload example files and ma
 ---
 
 ## 📦 Bucket Details
-- **Bucket Name:** vanshika-cloud-bucket 
-- **Region:** Jaipur
+- **Bucket Name:** vanshika.cloud.bucket 
+- **Region:** eu-north-1 (Europe)
 - **Versioning:** Disabled
 - **Public Access:** Enabled for individual files via bucket policy (see below)
 
@@ -44,12 +44,11 @@ Generated pre-signed URL to share file securely for limited time.
 ---
 
 ## 🔗 Links
-- [View bucket](https://s3.console.aws.amazon.com/s3/buckets/vanshika-cloud-bucket)
-- [Public file link (if enabled)](https://vanshika-cloud-bucket.s3.amazonaws.com/image.jpg)
+- [View bucket](https://s3.console.aws.amazon.com/s3/buckets/vanshika.cloud.bucket)
+- [Public file link (if enabled)](https://vanshika.cloud.bucket.s3.amazonaws.com/image.jpg)
 
 ---
 
 ## 👩‍💻 Tools Used
 - AWS Console
 - GitHub
-- ChatGPT (for mentorship)
