@@ -17,6 +17,9 @@ Set up and configure cloud storage using **AWS S3**. Upload example files and ma
 1. image.jpg
 2. notes.txt
 3. resume.pdf
+4. presentation.pptx
+5. report.docx
+6. data.csv
 
 Uploaded using AWS Console.
 
