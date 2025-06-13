@@ -48,7 +48,7 @@ Generated pre-signed URL to share file securely for limited time.
 
 ## 🔗 Links
 - [View bucket](https://s3.console.aws.amazon.com/s3/buckets/vanshika.cloud.bucket)
-- [Public file link (if enabled)(Sample image)]([https://vanshika.cloud.bucket.s3.amazonaws.com/image.jpg](https://s3.ap-south-1.amazonaws.com/vanshika.cloud.bucket/image.jpg))
+- [Public file link (if enabled)(Sample image)](https://s3.ap-south-1.amazonaws.com/vanshika.cloud.bucket/image.jpg)
 
 ---
 
